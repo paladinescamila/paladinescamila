@@ -1,6 +1,6 @@
-## Hi, I'm Camila
+## Hi, I'm Camila 👋
 
-I'm a Computer Science student and I love Frontend Web Development.
+I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍💻.
 
 ### My skills
 
