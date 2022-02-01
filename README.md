@@ -10,7 +10,8 @@ I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍�
 
 ### Contact
 
-- [🌐 Portfolio](https://camilapaladines.netlify.app/)
+- [✉️ E-mail (camilapaladines27@gmail.com)](mailto:camilapaladines27@gmail.com)
+- [🌐 Personal website](https://camilapaladines.netlify.app/)
 - [👥 LinkedIn](https://www.linkedin.com/in/paladinescamila/)
 
 <!--
