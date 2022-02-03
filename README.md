@@ -1,4 +1,4 @@
-## Hi, I'm Camila 👋
+## Hi, my name is Camila 👋
 
 I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍💻.
 
@@ -10,7 +10,7 @@ I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍�
 
 ### Contact
 
-- [✉️ E-mail (camilapaladines27@gmail.com)](mailto:camilapaladines27@gmail.com)
+- [✉️ E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
 - [🌐 Personal website](https://camilapaladines.netlify.app/)
 - [👥 LinkedIn](https://www.linkedin.com/in/paladinescamila/)
 
