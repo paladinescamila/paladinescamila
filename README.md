@@ -11,8 +11,8 @@ I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍�
 ### Contact
 
 - [✉️ E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
-- [🌐 Personal website](https://camilapaladines.netlify.app/)
-- [👥 LinkedIn](https://www.linkedin.com/in/paladinescamila/)
+- [🌐 Personal website → camilapaladines.netlify.app](https://camilapaladines.netlify.app/)
+- [👥 LinkedIn → paladinescamila](https://www.linkedin.com/in/paladinescamila/)
 
 <!--
 **paladinescamila/paladinescamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
