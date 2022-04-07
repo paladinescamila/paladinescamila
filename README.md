@@ -1,18 +1,18 @@
-## Hi, my name is Camila 👋
+## Hi, I'm Camila 👋, nice to meet you!
 
 I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍💻.
 
-### My skills
+### 🚀 My skills
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, Python.
 - **Libraries & Frameworks →** React.js.
 - **Tools & Platforms →** Git, Firebase, Figma, Scrum.
 
-### Contact
+### 👥 Contact me
 
 - [✉️ E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
-- [🌐 Personal website → camilapaladines.netlify.app](https://camilapaladines.netlify.app/)
-- [👥 LinkedIn → paladinescamila](https://www.linkedin.com/in/paladinescamila/)
+- [🌐 Portfolio → camilapaladines.netlify.app](https://camilapaladines.netlify.app/)
+- [👥 LinkedIn → @paladinescamila](https://www.linkedin.com/in/paladinescamila/)
 
 <!--
 **paladinescamila/paladinescamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
