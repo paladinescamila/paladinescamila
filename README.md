@@ -4,8 +4,8 @@ I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍�
 
 ### 🚀 My skills
 
-- **Languages →** HTML, CSS, SCSS, JavaScript, Python.
-- **Libraries & Frameworks →** React.js.
+- **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript, Python.
+- **Libraries & Frameworks →** React.js, React Native.
 - **Tools & Platforms →** Git, Firebase, Figma, Scrum.
 
 ### 👥 Contact me
