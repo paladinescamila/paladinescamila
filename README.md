@@ -8,11 +8,17 @@ I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍�
 - **Libraries & Frameworks →** React.js, React Native.
 - **Tools & Platforms →** Git, Firebase, Figma, Scrum.
 
-### 👥 Contact me
+### ✉️ Contact
 
-- [✉️ E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
+- [📨 E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
 - [🌐 Portfolio → camilapaladines.netlify.app](https://camilapaladines.netlify.app/)
-- [👥 LinkedIn → @paladinescamila](https://www.linkedin.com/in/paladinescamila/)
+
+### 👥 Social
+
+- [👩‍💻 Frontend Mentor → @paladinescamila](https://www.frontendmentor.io/profile/paladinescamila)
+- [👤 LinkedIn → @paladinescamila](https://www.linkedin.com/in/paladinescamila/)
+- [✍️ Medium → @paladinescamila](https://medium.com/@paladinescamila)
+
 
 <!--
 **paladinescamila/paladinescamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
