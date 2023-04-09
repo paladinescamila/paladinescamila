@@ -1,24 +1,23 @@
 ## Hi, I'm Camila 👋, nice to meet you!
 
-I'm a Computer Science student 📚 and I love Frontend Web Development 👩‍💻.
+I'm a frontend developer specialized in React JS and React Native. I love designing and developing applications that are very useful for people.
 
-### 🚀 My skills
+### 🚀 Skills
 
-- **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript, Python.
+- **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript.
 - **Libraries & Frameworks →** React.js, React Native.
 - **Tools & Platforms →** Git, Firebase, Figma, Scrum.
 
 ### ✉️ Contact
 
-- [📨 E-mail → camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
-- [🌐 Portfolio → camilapaladines.netlify.app](https://camilapaladines.netlify.app/)
+- 📨 E-mail → [camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
+- 🌐 Portfolio → [camilapaladines.netlify.app](https://camilapaladines.netlify.app)
 
 ### 👥 Social
 
-- [👩‍💻 Frontend Mentor → @paladinescamila](https://www.frontendmentor.io/profile/paladinescamila)
-- [👤 LinkedIn → @paladinescamila](https://www.linkedin.com/in/paladinescamila/)
-- [✍️ Medium → @paladinescamila](https://medium.com/@paladinescamila)
-
+- 👩‍💻 Frontend Mentor → [@paladinescamila](https://www.frontendmentor.io/profile/paladinescamila)
+- 👤 LinkedIn → [@paladinescamila](https://www.linkedin.com/in/paladinescamila)
+- ✍️ Medium → [@paladinescamila](https://medium.com/@paladinescamila)
 
 <!--
 **paladinescamila/paladinescamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
