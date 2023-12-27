@@ -1,12 +1,12 @@
 ## Hi, I'm Camila 👋, nice to meet you!
 
-I'm a frontend developer specialized in React JS and React Native. I love designing and developing applications that are very useful for people.
+I'm a Frontend Developer specialized in React and React Native. I love designing and developing applications that are very useful for people.
 
 ### 🚀 Skills
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript.
-- **Libraries & Frameworks →** React.js, React Native.
-- **Tools & Platforms →** Git, Firebase, Figma, Scrum.
+- **Libraries & Frameworks →** React, React Native, TailwindCSS.
+- **Tools & Platforms →** Git, GitHub, Firebase, Figma, Scrum.
 
 ### ✉️ Contact
 
