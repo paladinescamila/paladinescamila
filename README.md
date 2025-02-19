@@ -5,7 +5,7 @@ I'm a Frontend Developer specialized in React and React Native. I love designing
 ### 🚀 Skills
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript.
-- **Libraries & Frameworks →** React, React Native, TailwindCSS.
+- **Libraries & Frameworks →** React, React Native, Redux, TailwindCSS.
 - **Tools & Platforms →** Git, GitHub, Firebase, Figma, Scrum.
 
 ### ✉️ Contact
@@ -20,6 +20,13 @@ I'm a Frontend Developer specialized in React and React Native. I love designing
 - ✍️ Medium → [@paladinescamila](https://medium.com/@paladinescamila)
 
 <!--
+### 📊 Stats
+
+![paladinescamila's Stats](https://github-readme-stats.vercel.app/api?username=paladinescamila&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![paladinescamila's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paladinescamila&theme=midnight-purple&hide_border=true)
+-->
+
+<!--
 **paladinescamila/paladinescamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,7 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paladinescamila&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paladinescamila&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
