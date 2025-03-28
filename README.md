@@ -2,22 +2,21 @@
 
 I'm a Frontend Developer specialized in React and React Native. I love designing and developing applications that are very useful for people.
 
-### 🚀 Skills
+### 🚀 My skills
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, TypeScript.
 - **Libraries & Frameworks →** React, React Native, Redux, TailwindCSS.
 - **Tools & Platforms →** Git, GitHub, Firebase, Figma, Scrum.
 
-### ✉️ Contact
+### ✉️ You can reach me at
 
 - 📨 E-mail → [camilapaladines27@gmail.com](mailto:camilapaladines27@gmail.com)
-- 🌐 Portfolio → [camilapaladines.netlify.app](https://camilapaladines.netlify.app)
-
-### 👥 Social
-
-- 👩‍💻 Frontend Mentor → [@paladinescamila](https://www.frontendmentor.io/profile/paladinescamila)
 - 👤 LinkedIn → [@paladinescamila](https://www.linkedin.com/in/paladinescamila)
-- ✍️ Medium → [@paladinescamila](https://medium.com/@paladinescamila)
+
+### 🔗 Some of my work
+
+- 🌐 Portfolio → [camilapaladines.netlify.app](https://camilapaladines.netlify.app)
+- 👩‍💻 Frontend Mentor → [@paladinescamila](https://www.frontendmentor.io/profile/paladinescamila)
 
 <!--
 ### 📊 Stats
